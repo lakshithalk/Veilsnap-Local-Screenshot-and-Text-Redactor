@@ -1,21 +1,19 @@
-MIT License
+VeilSnap Community Licence v1.0
 
-Copyright (c) 2026 Lakshitha Kumaranayake
+Copyright (c) 2026 @devlk
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”) to use, copy, modify, and distribute the Software for personal, educational, research, non-profit, and internal evaluation purposes, subject to the conditions below.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Commercial Use requires the prior written permission of the copyright holder. “Commercial Use” means use of the Software or a derivative work in connection with a product, service, business activity, paid offering, or revenue-generating purpose.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Any permitted redistribution, derivative work, commercial edition, hosted version, or product that incorporates a material portion of the Software must retain the following attribution in its documentation, licence notices, or about page:
+
+“Built with or derived from VeilSnap by @devlk.”
+
+The Software may not be represented as an official VeilSnap product, endorsed by the copyright holder, or affiliated with the copyright holder without prior written permission.
+
+All copies or substantial portions of the Software must include this licence and copyright notice.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For commercial licensing requests, contact: lakshithak@protonmail.com
